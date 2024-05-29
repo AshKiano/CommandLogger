@@ -1,0 +1,5 @@
+name: CommandLogger
+version: '${project.version}'
+main: com.ashkiano.commandlogger.CommandLogger
+api-version: 1.16
+authors: [ AshKiano ]
